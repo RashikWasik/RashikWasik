@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RashikWasik
-- 👀 I’m interested in SQA
-- 🌱 I’m currently studying at Shahjalal University of Science and Technology
+- 👀 
+- 🌱 I’m a graduate from Shahjalal University of Science and Technology
 - 📫 rashikrajin@gmail.com
 <!---
 RashikWasik/RashikWasik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
